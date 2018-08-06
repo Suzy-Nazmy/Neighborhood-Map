@@ -4,7 +4,7 @@ This is the Udacity Neighborhood Map Project.A single-page web application, buil
 
 ## How to run the project
 
-Download the repo ......
+Download the repo https://github.com/Suzy-Nazmy/Neighborhood-Map
 Now install all modules listed as dependencies in `package.json` by running the command `npm install`
 Then launch the app with this command `npm start`
 A new browser window open automatically displaying the app to http://localhost:3000/ in your browser

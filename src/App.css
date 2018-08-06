@@ -1,0 +1,52 @@
+.App {
+  text-align: center;
+}
+
+.App-header {
+  background-color: #008f95;
+  height: 50px;
+  padding: 5px;
+  color: white;
+}
+
+.App-title {
+  font-size: 1.2em;
+  font-style: italic;
+}
+
+.App-intro {
+  font-size: large;
+}
+/*.side-nav {
+    margin-top: 46px;
+    height: 100%;
+    width: 0;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    background-color: #BE499E;
+    overflow-x: hidden;
+    transition: 0.4s;
+    font-size: 20px;
+    font-family: 'Helvetica';
+}*/
+.side-nav-container {
+	background-color: #cd5360;
+}
+
+.nav-item{
+	margin-right: 5px;
+	left: 200px;
+	border: 1px;
+}
+.side-nav {
+   color: white;
+}
+.location-list{
+	border: 50px;
+}
+@keyframes App-logo-spin {
+  from { transform: rotate(0deg); }
+  to { transform: rotate(360deg); }
+}
